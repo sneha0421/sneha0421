@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:kesarwanisneha26@gmail.com">📧 kesarwanisneha26@gmail.com</a> ·
-  <a href="https://linkedin.com/in/sneha-kesarwani">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/snehakesarwani/">LinkedIn</a> ·
   <a href="https://github.com/sneha0421">GitHub</a>
 </p>
 
