@@ -44,10 +44,6 @@ A personal GATE exam study platform with topic-wise progress tracking and perfor
 ### 🗓️ [AcademicaFlow](https://github.com/sneha0421/academica-flow) · `Python · Constraint Algorithm`
 > *Jan 2026*
 
-An AI-powered timetable generator using constraint-based algorithms to auto-create conflict-free schedules.
-- Built role-based interfaces for admin, teacher, and student — each with distinct access levels
-- Eliminates manual effort: handles room conflicts, teacher overlaps, and edge cases automatically
-
 ---
 
 ## 🛠️ Tech Stack
@@ -88,14 +84,12 @@ An AI-powered timetable generator using constraint-based algorithms to auto-crea
 ## 📜 Certifications
 
 - 🤖 **AI/ML Certification** — RPMLAI
-- 🧠 **TensorFlow Developer Certificate** — Google
 
 ---
 
 ## 📚 Currently Learning
 
 - 📐 **Data Structures & Algorithms** — patterns, problem-solving, optimization
-- 🔍 **RAG & Vector Databases** — hybrid search, embeddings, prompt engineering
 - 🗄️ **Supabase** — authentication, database services, full-stack backend workflows
 - ⚙️ **System Design** — scalability concepts, architecture patterns
 
