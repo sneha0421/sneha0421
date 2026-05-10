@@ -41,46 +41,6 @@ A personal GATE exam study platform with topic-wise progress tracking and perfor
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-`Python` `JavaScript` `C` `C++` `SQL` `HTML` `CSS`
-
-**Frameworks & Libraries**
-`Flask` `React` `TensorFlow` `Scikit-learn` `Pandas` `NumPy`
-
-**Databases & Backend**
-`SQLite` `Supabase` `Firebase`
-
-**AI / ML**
-`Gemini API` `Scikit-learn` `TensorFlow` `RAG · Vector Search · Prompt Engineering`
-
-**Tools & Platforms**
-`Git` `GitHub` `VS Code` `Postman` `Figma` `Google Cloud Console` `Kaggle`
-
-**CS Fundamentals**
-`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks` `Compiler Design`
-
----
-
-## 💼 Experience
-
-**Web Development — Core Team Member · REC Sonbhadra** *(Nov 2024 – Present)*
-- Improved UI responsiveness and page performance of the college website
-- Wrote clean, structured HTML/CSS/JS; collaborated with team using Git for version control
-- Deployed new features and resolved production bugs
-
-**Social Media & Tech Outreach Lead · Google Developer Groups (GDG) on Campus** *(Oct 2024 – Present)*
-- Coordinated technical events, hackathons, and developer workshops for a community of 200+ members
-- Led content strategy that grew community engagement; promoted coding culture and participation in tech challenges
-
----
-
-## 📜 Certifications
-
-- 🤖 **AI/ML Certification** — RPMLAI
-
----
 
 ## 📚 Currently Learning
 
