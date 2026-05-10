@@ -41,11 +41,6 @@ A personal GATE exam study platform with topic-wise progress tracking and perfor
 
 ---
 
-### 🗓️ [AcademicaFlow](https://github.com/sneha0421/academica-flow) · `Python · Constraint Algorithm`
-> *Jan 2026*
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
