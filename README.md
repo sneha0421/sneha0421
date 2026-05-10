@@ -1,53 +1,112 @@
-Hi, I'm Sneha Kesarwani
+<h1 align="center">Hi, I'm Sneha Kesarwani 👋</h1>
 
-3rd Year Computer Science Engineering Student | ML & AI Enthusiast | Aspiring Software Engineer
+<p align="center">
+  <strong>Computer Science Engineering Student (2023–2027) · CGPA 7.7</strong><br/>
+  Rajkiya Engineering College Sonbhadra, U.P.
+</p>
 
-I’m a dedicated CSE student passionate about building intelligent systems, exploring modern AI workflows, and creating clean, intuitive digital experiences.
-From machine learning models to backend systems and AI-powered applications — I love learning, experimenting, and shipping meaningful projects.
+<p align="center">
+  <a href="mailto:kesarwanisneha26@gmail.com">📧 kesarwanisneha26@gmail.com</a> ·
+  <a href="https://linkedin.com/in/sneha-kesarwani">LinkedIn</a> ·
+  <a href="https://github.com/sneha0421">GitHub</a>
+</p>
 
+---
 
-🚀 What I’m Learning Right Now
-Machine Learning – Data preprocessing, supervised/unsupervised models, evaluation
+## 👩‍💻 About Me
 
-Retrieval-Augmented Generation (RAG) – Hybrid search, vector databases, prompt engineering
+I'm a 3rd-year CSE student passionate about building **clean, scalable software** — from full-stack web applications to AI-powered tools. I enjoy turning real problems into working products with thoughtful architecture and clean code.
 
-Data Structures & Algorithms – Coding patterns, problem-solving, optimization
+Currently deepening my skills in **Data Structures & Algorithms**, **backend development**, and **AI/ML integration** — with a focus on writing code that's maintainable, well-documented, and production-ready.
 
-Supabase – Authentication, database services, full-stack backend workflows
+---
 
+## 🚀 Featured Projects
 
-🛠️ What I’m Working On
-ML-based prediction, classification, and automation projects
+### 🗂️ [Vision Task Manager](https://github.com/sneha0421/vision-task-manager) · `Python · Flask · Gemini API · SQLite · REST`
+> *May 2026*
 
-Building AI prototypes using RAG + vector embeddings
+A full-stack web app where users describe goals in plain English and Gemini AI auto-generates and prioritizes a task list.
+- Designed REST API backend using Flask with SQLite for task persistence and CRUD operations
+- Built clean, responsive frontend (HTML/CSS/JS) with structured GitHub docs and README
 
-Full-stack projects with Supabase + React
+---
 
-Regular DSA practice to strengthen system-level thinking
+### 📊 [GateTracker](https://github.com/sneha0421/Gate-Tracker) · `Python · Dashboard · Analytics`
+> *Nov 2025*
 
-practice
+A personal GATE exam study platform with topic-wise progress tracking and performance analytics.
+- Personal dashboard with daily goals, streaks, and revision reminders
+- Integrated accountability features to improve study consistency
 
-💼 Experience
-Digital Marketing Intern — 4 Months (2nd Year)
+---
 
-Edited and created 30+ creative short advertising videos for brand campaigns
+### 🗓️ [AcademicaFlow](https://github.com/sneha0421/academica-flow) · `Python · Constraint Algorithm`
+> *Jan 2026*
 
-Analyzed content performance and engagement metrics to optimize strategies
+An AI-powered timetable generator using constraint-based algorithms to auto-create conflict-free schedules.
+- Built role-based interfaces for admin, teacher, and student — each with distinct access levels
+- Eliminates manual effort: handles room conflicts, teacher overlaps, and edge cases automatically
 
-Improved brand reach through data-backed planning and execution
+---
 
-Collaborated with multi-disciplinary teams for smooth campaign delivery
+## 🛠️ Tech Stack
 
-⚙️ Tech Stack
-Programming: Python, JavaScript, SQL
-Machine Learning: Scikit-Learn, Pandas, NumPy, Matplotlib
-AI / RAG Tools: Embeddings, Vector Search, Prompt Engineering
-Frontend: HTML, CSS, JavaScript, React
-Backend & Databases: Supabase, Firebase, SQL
-Tools: Git, GitHub, VS Code
+**Languages**
+`Python` `JavaScript` `C` `C++` `SQL` `HTML` `CSS`
 
-💡 Fun Fact
-I love building systems that blend intelligence with simplicity — scalable models, clean logic, and interfaces that feel effortless.
+**Frameworks & Libraries**
+`Flask` `React` `TensorFlow` `Scikit-learn` `Pandas` `NumPy`
 
-🤝 Let’s Connect
-Open to collaborations, research projects, internships, and opportunities in Machine Learning, AI, and Software Development.
+**Databases & Backend**
+`SQLite` `Supabase` `Firebase`
+
+**AI / ML**
+`Gemini API` `Scikit-learn` `TensorFlow` `RAG · Vector Search · Prompt Engineering`
+
+**Tools & Platforms**
+`Git` `GitHub` `VS Code` `Postman` `Figma` `Google Cloud Console` `Kaggle`
+
+**CS Fundamentals**
+`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks` `Compiler Design`
+
+---
+
+## 💼 Experience
+
+**Web Development — Core Team Member · REC Sonbhadra** *(Nov 2024 – Present)*
+- Improved UI responsiveness and page performance of the college website
+- Wrote clean, structured HTML/CSS/JS; collaborated with team using Git for version control
+- Deployed new features and resolved production bugs
+
+**Social Media & Tech Outreach Lead · Google Developer Groups (GDG) on Campus** *(Oct 2024 – Present)*
+- Coordinated technical events, hackathons, and developer workshops for a community of 200+ members
+- Led content strategy that grew community engagement; promoted coding culture and participation in tech challenges
+
+---
+
+## 📜 Certifications
+
+- 🤖 **AI/ML Certification** — RPMLAI
+- 🧠 **TensorFlow Developer Certificate** — Google
+
+---
+
+## 📚 Currently Learning
+
+- 📐 **Data Structures & Algorithms** — patterns, problem-solving, optimization
+- 🔍 **RAG & Vector Databases** — hybrid search, embeddings, prompt engineering
+- 🗄️ **Supabase** — authentication, database services, full-stack backend workflows
+- ⚙️ **System Design** — scalability concepts, architecture patterns
+
+---
+
+## 🤝 Let's Connect
+
+Open to **SWE internships**, **collaborations**, and **research projects** in Software Engineering, Full-Stack Development, and Applied AI.
+
+<p align="center">
+  <a href="https://linkedin.com/in/sneha-kesarwani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kesarwanisneha26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/sneha0421"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
